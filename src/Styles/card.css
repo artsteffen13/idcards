@@ -1,0 +1,48 @@
+.flex {
+    display: inline-flex;
+}
+
+.card {
+    width: 250px;
+    border-radius: 5%;
+    border: 2px solid black;
+    margin: 20px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.card-top {
+    background: #FF9A00;
+    height: 240px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    padding: 5%;
+    position: relative;
+}
+
+.card-bottom {
+    background: white;
+    height: 60px;
+    border-bottom-right-radius: 7%;
+    border-bottom-left-radius: 7%;
+    border-top: 1px solid black;
+}
+
+p {
+    margin: 10px;
+    font-size: 150%;
+    padding-top: 10px;
+
+}
+
+img {
+    width: 40%;
+    position: absolute;
+    bottom: 5px;
+    left: 30%;
+    border-radius: 10%;
+
+}
+
+.logo {
+    float: left;
+}

@@ -1,0 +1,16 @@
+body {
+    font-family: Ubuntu, sans-serif;
+}
+
+h1 {
+    display: inline;
+}
+
+.header {
+    background: linear-gradient(to left, #FF9A00, #FFCF0D, #FF9A00);
+    padding: 20px 0;
+    border-bottom: 1px black solid;
+    border-top: 1px black solid;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
